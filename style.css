@@ -1,0 +1,16 @@
+#full {
+  text-align: center;
+  border: 2px solid black;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding: 25px;
+}
+input {
+  background-color: rgba(72, 223, 152, 0.562);
+}
+p {
+  text-align: center;
+
+  margin: 10px 400px 0px 0px;
+}
